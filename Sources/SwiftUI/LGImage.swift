@@ -155,5 +155,3 @@ extension LGImage {
         return self
     }
 }
-
-#endif
