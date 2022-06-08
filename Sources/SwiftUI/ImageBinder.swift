@@ -113,5 +113,3 @@ extension LGImage {
         }
     }
 }
-
-#endif
